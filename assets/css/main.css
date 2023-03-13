@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 13pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -150,7 +150,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		font-family: "Merriweather", Georgia, serif;
 		font-weight: 300;
-		font-size: 1rem;
+		 font-size: 0.9rem; /* this is the size of the font */
 		line-height: 2.375;
 	}
 
